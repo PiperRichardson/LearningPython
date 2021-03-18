@@ -1,1 +1,5 @@
-input("What is your name?\n")
+print("Zootopia")
+print("Incredibles")
+print("Maze Runner")
+print("Infinity War")
+print("End Game")
